@@ -1,7 +1,7 @@
 # libs
 
-Some libraries I made. 
-All files in the `lib` directory were not made by me. 
+Some libraries I made.\
+All files in the `lib` directory were not made by me.
 
 ## Features
 
@@ -17,10 +17,10 @@ All files in the `lib` directory were not made by me.
 
 ## Libraries
 
-`colors.h` - Library for storing and converting color models. 
-Currently supports (partially): (RGB, HSV/HSB, HSL) 
-Planned support: (CMYK) - We already have containers for these color models, but not conversion. 
+`colors.h` - Library for storing and converting color models.\
+Currently supports (partially): (RGB, HSV/HSB, HSL)\
+Planned support: (CMYK) - We already have containers for these color models, but not conversion.
 
 ## License
-See the `LICENSE` file for the license. 
-TLDR: `Unlicense` or `CC0`. 
+See the `LICENSE` file for the license.\
+TLDR: `Unlicense` or `CC0`.
