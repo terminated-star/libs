@@ -5,7 +5,7 @@
 int main()
 {
 	colors_hsv my_color;
-	my_color.hue = 0.13;
+	my_color.hue = 0.13; /* Keep in mind that the range of every value in every data type is 0-1 */
 	my_color.saturation = 0.35;
 	my_color.value = 0.89;
 	{
