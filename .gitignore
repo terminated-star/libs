@@ -1,1 +1,11 @@
-dev/
+**/dev/
+**/prv/
+**/private/
+**/out/
+**/build/
+
+# Matches todo.txt, any casing
+**/[Tt][Oo][Dd][Oo].[Tt][Xx][Tt]
+
+**/.compile_commands.json
+**/.cache/

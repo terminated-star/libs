@@ -1,7 +1,8 @@
 # libs
 
 Some libraries I made.\
-All files in the `lib` directory were not made by me.
+All files in the `lib` directory, if any, were not made by me.\
+I am open to creating more (small) libraries, open an issue to suggest one.
 
 ## Features
 
@@ -18,9 +19,12 @@ All files in the `lib` directory were not made by me.
 ## Libraries
 
 `colors.h` - Library for storing and converting color models.\
-Currently supports (partially): (RGB, HSV/HSB, HSL)\
-Planned support: (CMYK) - We already have containers for these color models, but not conversion.
+Currently supports (partially): RGB, HSV/HSB, HSL\
+Planned support: CMYK, TSL\
+`array_2d.h` - Library for a 2d grid.\
+
 
 ## License
 See the `LICENSE` file for the license.\
-TLDR: `Unlicense` or `CC0`.
+TLDR: `Unlicense` or `CC0`.\
+The license does not apply to files in the `lib` directory of this repository.
