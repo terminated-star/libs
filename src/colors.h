@@ -128,16 +128,16 @@ colors_rgb colors_hsv_to_rgb(colors_hsv in)
 }
 
 /* https://en.wikipedia.org/wiki/HSL_and_HSV#HSV_to_RGB_alternative */
-colors_rgb colors_hsv_to_rgb_alt(colors_hsv in)
+/*colors_rgb colors_hsv_to_rgb_alt(colors_hsv in)
 {
 	
-}
+}*/
 
 /* https://en.wikipedia.org/wiki/HSL_and_HSV#From_RGB */
-colors_hsv colors_rgb_to_hsv(colors_rgb in)
+/*colors_hsv colors_rgb_to_hsv(colors_rgb in)
 {
-	/* RGB must be in range 0-1 for this */
-}
+	
+}*/
 
 /* https://en.wikipedia.org/wiki/HSL_and_HSV#HSV_to_HSL */
 colors_hsl colors_hsv_to_hsl(colors_hsv in)
