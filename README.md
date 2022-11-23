@@ -21,7 +21,7 @@ I am open to creating more (small) libraries, open an issue to suggest one.
 `colors.h` - Library for storing and converting color models.\
 Currently supports (partially): RGB, HSV/HSB, HSL\
 Planned support: CMYK, TSL\
-`array_2d.h` - Represents a 2d grid. It _should_ work with any data type.
+`array_2d.h` - Represents a 2d grid. It _should_ work with any data type, and you aren't limited to one data type per array.
 
 ## License
 See the `LICENSE` file for the license.\
