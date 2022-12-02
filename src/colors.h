@@ -3,13 +3,13 @@
 Licensing information can be found at the end of this file.
 -----------------------------------------------------------
 
-colors - version 0.1
+colors - version 0.2
 */
 
 #ifndef COLORS_H
 #define COLORS_H
 
-#include <math.h> /* For fabs and fmod, TODO: Let them use their own math if desired */
+#include <math.h> /* Used for fabs and fmod, TODO: Let them use their own math if desired */
 
 /* TODO: Make a method like colors_rgb_fix(in) that clamps the values automatically */
 
